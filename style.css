@@ -4,17 +4,16 @@
 }
 body {
   background-color: #FAF9F6;
-  padding: 20px;
-  margin: 0;
   display: flex;
+  margin: 0;
 }
 p {
   font-family: 'BabelStoneHan';
   font-size: 200%;
+  line-height: 1.6;
   writing-mode: tb-rl;
   white-space: nowrap;
   float: right;
-  padding: 0 30px;
+  padding: 30px;
   margin: 0;
-  line-height: 1.6;
 }
