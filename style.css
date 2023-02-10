@@ -14,6 +14,7 @@ p {
   writing-mode: tb-rl;
   white-space: nowrap;
   float: right;
-  margin: 0 30px;
+  padding: 0 10px;
+  margin: 0 20px;
   line-height: 1.6;
 }
