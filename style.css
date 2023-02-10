@@ -10,10 +10,10 @@ body {
 }
 p {
   font-family: 'BabelStoneHan';
-  font-size: 250%;
+  font-size: 200%;
   writing-mode: tb-rl;
   white-space: nowrap;
   float: right;
-  margin: 10px;
+  margin: 0 30px;
   line-height: 2;
 }
