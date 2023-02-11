@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'NotoSerifJP';
-  scr: url('/gunka/NotoSerifJP-Regular.otf') format('opentype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');
 @font-face {
   font-family: 'BabelStoneHan';
   src: url('/gunka/BabelStoneHan.woff') format('woff');
@@ -12,7 +9,7 @@ body {
   margin: 0;
 }
 p {
-  font-family: 'NotoSerifJP';
+  font-family: 'Noto Serif JP', serif;
   font-size: 200%;
   line-height: 1.6;
   writing-mode: tb-rl;
