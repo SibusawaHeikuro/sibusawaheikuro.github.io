@@ -1,4 +1,8 @@
 @font-face {
+  font-family: 'NotoSerifJP';
+  scr: url('/gunka/NotoSerifJP-Regular.otf') format('otf');
+}
+@font-face {
   font-family: 'BabelStoneHan';
   src: url('/gunka/BabelStoneHan.woff') format('woff');
 }
@@ -8,7 +12,7 @@ body {
   margin: 0;
 }
 p {
-  font-family: 'BabelStoneHan';
+  font-family: 'NotoSerifJP';
   font-size: 200%;
   line-height: 1.6;
   writing-mode: tb-rl;
@@ -16,4 +20,7 @@ p {
   float: right;
   padding: 30px;
   margin: 0;
+}
+.hentai {
+  font-family: 'BabelStoneHan';
 }
