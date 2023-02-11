@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap');
 @font-face {
-  font-family: 'BabelStoneHan';
+  font-family: 'BabelStone Han';
   src: url('https://www.babelstone.co.uk/Fonts/WOFF/BabelStoneHan.woff2') format('woff2');
   src: url('https://www.babelstone.co.uk/Fonts/WOFF/BabelStoneHan.woff') format('woff');
 }
@@ -14,11 +14,15 @@ p {
   font-size: 200%;
   line-height: 1.6;
   writing-mode: tb-rl;
+  text-orientation: upright;
   white-space: nowrap;
   float: right;
   padding: 30px;
   margin: 0;
 }
 .hentai {
-  font-family: 'BabelStoneHan';
+  font-family: 'BabelStone Han';
+}
+.year {
+  text-orientation: mixed;
 }
