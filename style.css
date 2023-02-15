@@ -21,6 +21,12 @@ p {
   padding: 30px;
   margin: 0;
 }
-.hentai {
+span {
+  display: flex;
+}
+a {
+  text-decoration: none;
+}
+hentai {
   font-family: 'BabelStone Han';
 }
