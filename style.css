@@ -11,14 +11,14 @@ body {
 }
 p {
   font-family: 'Noto Serif JP', serif;
-  font-size: 200%;
-  line-height: 1.6;
+  font-size: 225%;
+  line-height: 2;
   writing-mode: tb-rl;
   text-orientation: upright;
   font-kerning: normal;
   white-space: nowrap;
   float: right;
-  padding: 30px;
+  padding: 20px;
   margin: 0;
 }
 span {
