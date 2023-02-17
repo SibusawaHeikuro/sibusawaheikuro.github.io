@@ -20,9 +20,17 @@ p {
   float: right;
   padding: 20px;
   margin: 0;
+  height: 90%;
+}
+first-line {
+  display: flex;
+  justify-content: center;
 }
 line {
   display: flex;
+}
+hito, futa {
+  height: 50%;
 }
 hen {
   font-family: 'BabelStone Han';
