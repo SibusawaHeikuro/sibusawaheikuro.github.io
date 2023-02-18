@@ -14,12 +14,11 @@ p {
   line-height: 2;
   writing-mode: tb-rl;
   text-orientation: upright;
-  font-kerning: normal;
+  font-kerning: none;
   white-space: nowrap;
   float: right;
   padding: 20px;
   margin: 0;
-  height: 90%;
 }
 first-line {
   display: flex;
@@ -28,8 +27,11 @@ first-line {
 line {
   display: flex;
 }
-hito, futa {
-  height: 50%;
+hito {
+  height: 60%;
+}
+futa {
+  height: 40%;
 }
 hen {
   font-family: 'BabelStone Han';
