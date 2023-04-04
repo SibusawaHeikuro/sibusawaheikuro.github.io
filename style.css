@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap');
 @font-face {
   font-family: 'BabelStone Han';
-  src: url('https://www.babelstone.co.uk/Fonts/WOFF/BabelStoneHan.woff2') format('woff2');
-       url('https://www.babelstone.co.uk/Fonts/WOFF/BabelStoneHan.woff') format('woff');
+  src: url('https://www.babelstone.co.uk/Fonts/WOFF/BabelStoneHan.woff') format('woff');
 }
 body {
   background-color: #faf9f6;
