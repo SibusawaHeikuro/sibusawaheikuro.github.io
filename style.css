@@ -12,7 +12,7 @@ p {
   font-family: 'Noto Serif JP', serif;
   font-size: 200%;
   line-height: 2;
-  writing-mode: tb-rl;
+  writing-mode: vertical-rl;
   text-orientation: upright;
   font-kerning: none;
   white-space: nowrap;
